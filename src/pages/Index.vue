@@ -2,7 +2,7 @@
   <Layout>
     <!-- Page Header -->
     <header class="masthead" :style="{
-      backgroundImage: `url(${GRIDSOME_API_URL+general.cover.url})`
+      backgroundImage: `url(${general.cover.url})`
     }">
       <div class="overlay"></div>
       <div class="container">
